@@ -1,4 +1,6 @@
-<img width="1254" height="1254" alt="DP For LINKDIN" src="https://github.com/user-attachments/assets/3ad767e2-ac6b-493d-8669-75f044904d38" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3ad767e2-ac6b-493d-8669-75f044904d38" width="180" style="border-radius:50%;" />
+</p>
 
 
 # 👩‍💻 Rimsha Ulfat
