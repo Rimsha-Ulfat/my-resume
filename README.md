@@ -82,8 +82,7 @@ A complete GUI-based desktop application for managing school data.
 🛠️ **Technologies Used:**
 - Java Swing (GUI)  
 - Oracle Database  
--Dev C++<img width="1254" height="1254" alt="DP For LINKDIN" src="https://github.com/user-attachments/assets/9ab3d00e-c5c4-414d-93a8-d9a254de1004" />
- 
+-Dev C++
 
 ## 📫 Contact Me
 
