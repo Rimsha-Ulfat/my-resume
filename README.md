@@ -58,7 +58,8 @@ A console-based multiplayer Tic Tac Toe game with:
 - Dynamic game board display  
 - Player turn switching  
 - Win and draw detection  
-- File handling to store game results  
+- File handling to store game results
+-  View Code : (https://github.com/Rimsha-Ulfat/tic-tac-toe-game/blob/main/game_results.txt)
 
 📂 **Key Features:**
 - Clean modular structure  
@@ -82,7 +83,7 @@ A complete GUI-based desktop application for managing school data.
 🛠️ **Technologies Used:**
 - Java Swing (GUI)  
 - Oracle Database  
--Dev C++
+  view code: (https://github.com/Rimsha-Ulfat/student-management-system/blob/main/SOURCE%20CODE.txt)
 
 ## 📫 Contact Me
 
